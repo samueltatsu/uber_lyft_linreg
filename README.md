@@ -2,11 +2,11 @@
 
 *Introduction*
 
-Ride-hailing services have transformed urban transportation, offering users convenient and flexible mobility options. However, pricing transparency remains a key concern for both riders and service providers. In response to this challenge, this project focuses on developing an accurate and efficient pricing model for ride-hailing services.
+Ride-hailing services like Uber and Lyft have made getting around cities easier. But figuring out how much a ride will cost can be confusing. This project aims to help by creating a system that predicts ride prices more accurately.
 
 *Objective*
 
-This project aims to make a pricing model for ride-hailing services. We're using a method called linear regression to predict how much a ride will cost. We're looking at things like how far the ride is, what kind of service it is, and other important factors to make our predictions accurate and efficient.
+Our goal is to make ride prices clearer for both passengers and drivers. We're using data and math to build a tool that guesses how much a ride will cost based on things like distance and type of ride. By doing this, we hope to make ride-hailing easier and fairer for everyone involved.
 
 *Dataset*
 
